@@ -2,6 +2,8 @@
   <a href="https://chaoyong213.github.io">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=欢迎来到我的个人站！&center=true&size=27" alt="Typing SVG" />
   </a>
+  <a href="https://chaoyong213.github.io">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FE428E&width=435&center=true&lines=欢迎来到我的个人站！" alt="Typing SVG" /></a>
 </div>
 
 ### Hi there 👋

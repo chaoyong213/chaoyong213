@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://chaoyong213.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fe428e&width=435&lines=欢迎来到我的个人站！&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=欢迎来到我的个人站！&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
 
